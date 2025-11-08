@@ -57,7 +57,7 @@ docker-compose down
 
 ## Notas
 - El backend se levanta con datos iniciales (fixtures).
-- Puedes modificar `.env` para cambiar credenciales o puertos.
+- Podes modificar `.env` para cambiar credenciales o puertos.
 ---
 
 ¡Listo! Con estos pasos esta el sistema funcionando en minutos saludos juanmanuel.
