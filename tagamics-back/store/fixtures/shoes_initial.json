@@ -1,0 +1,7 @@
+[
+  {"model":"store.shoe","pk":1,"fields":{"name":"Air Max 90","brand":"Nike","price":"129.99","size":42,"stock":10,"created_at":"2025-11-07T00:00:00Z","updated_at":"2025-11-07T00:00:00Z"}},
+  {"model":"store.shoe","pk":2,"fields":{"name":"UltraBoost","brand":"Adidas","price":"159.99","size":43,"stock":7,"created_at":"2025-11-07T00:00:00Z","updated_at":"2025-11-07T00:00:00Z"}},
+  {"model":"store.shoe","pk":3,"fields":{"name":"Chuck Taylor","brand":"Converse","price":"59.99","size":41,"stock":15,"created_at":"2025-11-07T00:00:00Z","updated_at":"2025-11-07T00:00:00Z"}},
+  {"model":"store.shoe","pk":4,"fields":{"name":"Classic Leather","brand":"Reebok","price":"89.50","size":42,"stock":5,"created_at":"2025-11-07T00:00:00Z","updated_at":"2025-11-07T00:00:00Z"}},
+  {"model":"store.shoe","pk":5,"fields":{"name":"Kayano 28","brand":"ASICS","price":"139.00","size":44,"stock":8,"created_at":"2025-11-07T00:00:00Z","updated_at":"2025-11-07T00:00:00Z"}}
+]

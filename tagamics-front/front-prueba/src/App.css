@@ -1,0 +1,42 @@
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container-right {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.logo {
+  width: 60px;
+  border-radius: 100%;
+}
+
+.btn {
+  min-width: 40px;
+  text-align: center;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 6px;
+  text-decoration: none;
+  background: linear-gradient(90deg, #684efa, #398dea);
+  cursor: pointer;
+  transition: 0.3s;
+}
+.btn.small {
+  padding: 6px 8px;
+  font-size: 0.9rem;
+}
+.btn.danger {
+  background: #d9534f;
+}
+
+.btn:hover {
+  font-weight: bold;
+  scale: 1.05;
+}
